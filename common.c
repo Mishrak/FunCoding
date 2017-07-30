@@ -1,5 +1,10 @@
+/***********************************************************/
+/* This file contains different functions                  */
+/* which can be use for making main function efficient     */
+/* Developer : Mishrak                                     */
+/***********************************************************/
 /********************************************************************************/
-/* Before using any function read the instructions written above that fucntion  */
+/* Before using any function read the instructions written above that function  */
 /* Modify according to your need and enjoy coding                               */
 /********************************************************************************/
 
